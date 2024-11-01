@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background-color: bisque;
+}
+   h1 {
+    color: blue;
+
+   }
+   h3 {
+    color: blue;
+   }
+   hr {
+    border-style: dotted none none none;
+     border-color: grey;
+     border-width: 5px;
+     height: 0;
+     width: 3%;
+   }
+   .navbar ul {
+    list-style-type: none;
+    background-color: hsl(0, 0%, 25%);
+    margin: 0;
+    padding: 10;
+    overflow: hidden;
+   }
+   .navbar a {
+    color: skyblue;
+    text-decoration: 15px;
+    padding: 15px;
+    display: block;
+    text-align: center;
+   }
+   .navbar a:hover {
+    background-color: hsl(0, 0%, 10%);
+   }
+   .navbar li{
+    float: left;
+   }
+
+   
